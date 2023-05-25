@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace ;
+}
+table {
+    padding: 10px;
+    border-radius: 2px;
+}
